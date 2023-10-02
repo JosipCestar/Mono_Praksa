@@ -1,0 +1,14 @@
+C:\Users\Acer-7\source\repos\ConsoleApp_ClothingBrand\ConsoleApp_ClothingBrand\bin\Debug\net6.0\ConsoleApp_ClothingBrand.exe
+C:\Users\Acer-7\source\repos\ConsoleApp_ClothingBrand\ConsoleApp_ClothingBrand\bin\Debug\net6.0\ConsoleApp_ClothingBrand.deps.json
+C:\Users\Acer-7\source\repos\ConsoleApp_ClothingBrand\ConsoleApp_ClothingBrand\bin\Debug\net6.0\ConsoleApp_ClothingBrand.runtimeconfig.json
+C:\Users\Acer-7\source\repos\ConsoleApp_ClothingBrand\ConsoleApp_ClothingBrand\bin\Debug\net6.0\ConsoleApp_ClothingBrand.dll
+C:\Users\Acer-7\source\repos\ConsoleApp_ClothingBrand\ConsoleApp_ClothingBrand\bin\Debug\net6.0\ConsoleApp_ClothingBrand.pdb
+C:\Users\Acer-7\source\repos\ConsoleApp_ClothingBrand\ConsoleApp_ClothingBrand\obj\Debug\net6.0\ConsoleApp_ClothingBrand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer-7\source\repos\ConsoleApp_ClothingBrand\ConsoleApp_ClothingBrand\obj\Debug\net6.0\ConsoleApp_ClothingBrand.AssemblyInfoInputs.cache
+C:\Users\Acer-7\source\repos\ConsoleApp_ClothingBrand\ConsoleApp_ClothingBrand\obj\Debug\net6.0\ConsoleApp_ClothingBrand.AssemblyInfo.cs
+C:\Users\Acer-7\source\repos\ConsoleApp_ClothingBrand\ConsoleApp_ClothingBrand\obj\Debug\net6.0\ConsoleApp_ClothingBrand.csproj.CoreCompileInputs.cache
+C:\Users\Acer-7\source\repos\ConsoleApp_ClothingBrand\ConsoleApp_ClothingBrand\obj\Debug\net6.0\ConsoleApp_ClothingBrand.dll
+C:\Users\Acer-7\source\repos\ConsoleApp_ClothingBrand\ConsoleApp_ClothingBrand\obj\Debug\net6.0\refint\ConsoleApp_ClothingBrand.dll
+C:\Users\Acer-7\source\repos\ConsoleApp_ClothingBrand\ConsoleApp_ClothingBrand\obj\Debug\net6.0\ConsoleApp_ClothingBrand.pdb
+C:\Users\Acer-7\source\repos\ConsoleApp_ClothingBrand\ConsoleApp_ClothingBrand\obj\Debug\net6.0\ConsoleApp_ClothingBrand.genruntimeconfig.cache
+C:\Users\Acer-7\source\repos\ConsoleApp_ClothingBrand\ConsoleApp_ClothingBrand\obj\Debug\net6.0\ref\ConsoleApp_ClothingBrand.dll
